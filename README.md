@@ -1,4 +1,4 @@
-Bot Battlr
+##Bot Battlr
 Welcome to Bot Battlr - the ultimate spot in the galaxy for building your own custom Bot Army! This web app allows users to browse through a list of bots, view their details, and enlist them into their own personal army. Developed using React, this app is designed to help you practice components, props, state management, event handling, and data fetching.
 
 Table of Contents
